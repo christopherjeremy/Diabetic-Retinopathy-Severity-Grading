@@ -1,0 +1,46 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# Large Datasets and Archives (Diabetic Retinopathy raw image collections)
+All_Datasets.zip
+Dataset_1/
+Dataset_2/
+Dataset_3/
+Dataset_4/
+*.tar.gz
+*.zip
+*.7z
+
+# Local academic submissions and documentation backups
+.academic_docs/
+*.docx
+*.pptx
+*.pdf
+*.ipynb
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE and Editor configuration
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary and local log files
+*.log
+scratch/
